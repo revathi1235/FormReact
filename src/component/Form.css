@@ -1,0 +1,109 @@
+.main{
+    position: relative;
+    height: 600px;
+    width: 600px;
+   
+}
+
+
+.first{
+    margin-left: 100px;
+     margin-top: 20px; 
+    height: 590px;
+    position: absolute;
+    width: 300px;
+    text-align: center;  
+    /* border: 1px solid; */
+    box-shadow: 1px 1px 4px 0px;
+}
+.second{
+    position: absolute;
+    margin-left: 410px;
+    margin-top: 20px;
+    height: 590px;
+    position: absolute;
+    width: 900px;
+    text-align: center;  
+    /* border: 1px solid black; */
+    box-shadow: 1px 1px 4px 0px;
+}
+td:hover{
+  background-color: rgb(143, 138, 138);
+}
+.second td:hover{
+  background-color: #fff;
+}
+.Acc{
+    margin-right: 610px;
+    margin-top: 40px;
+}
+h3{
+  font-family: cursive  
+  ;
+}
+    h4{
+    color:rgb(8, 8, 8);
+    font-family: cursive;
+   
+}
+.col{
+    margin-top: 20px ;
+}
+.listgroup{
+    width: 250px;
+   
+}
+table{
+    font-family: cursive;
+}
+tr{
+    padding: 10px;
+    height: 50px;
+   
+}
+.r{
+    border: 1px solid #dddddd;
+}
+td {
+    padding: 30px;
+ height: auto;
+ width: 300px;
+    /* border: 1px solid #dddddd; */
+    text-align: left;
+    padding: 8px;
+    /* text-align: center; */
+    box-shadow: px 2px 2px 0px;
+  }
+  .alfred{
+    background-color: rgb(88, 151, 233);
+    box-shadow: 3px 2px 2px 0px;
+   
+  }
+  input{
+    width: 350px;
+  }
+  .Acc{
+    margin-left: 40px;
+  }
+  form{
+    margin-left: 50px;
+  }
+  .button{
+    padding: 50px;
+  }
+  .b{
+    background-color: blue;
+    margin-top: 20px;
+    color: white;
+    margin-left: 30px;
+  }
+  .b:hover{
+    background-color: green;
+  }
+  .u{
+    margin-left: 50px;
+  }
+  .u:hover{
+    background-color: red;
+    color: white;
+  }
